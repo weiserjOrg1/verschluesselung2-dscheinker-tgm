@@ -10,7 +10,7 @@ public class Model {
 
     // Der Konstruktor der Klasse Model
     public Model(){
-        this.abc = new SubstitutionCipher("QWERTZßÜAUIOPSKLÖDFGBNMHJÄYXCV");
+        this.abc = new SubstitutionCipher("QAYWSXEDCRFVTGBZHNUJMIKOLPÖÜÄ");
     }
 
    
